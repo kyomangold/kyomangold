@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9FAAAD&width=700&height=84&lines=Hello!+This+is+Kyo's+GitHub%2C+have+fun+exploring!)](https://git.io/typing-svg)
 
 <!--
 **kyomangold/kyomangold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
