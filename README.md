@@ -27,7 +27,7 @@ The projects you will find on here revolve around:
    - [IWC Schaffhausen](https://www.iwc.com/ch/en/home.html)
  
 ### 💬 Reach Out 
-If you are also passionate about these topics, please feel free to connect with me on LinkedIn.
+If you are also passionate about these topics, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kyomangold/).
 
 <!--
 **kyomangold/kyomangold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
