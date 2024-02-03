@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=9FAAAD&width=700&height=84&lines=Hello!+This+is+Kyo's+GitHub%2C+have+fun+exploring!)](https://git.io/typing-svg)
 
-My GitHub covers some of my projects from my academic studies at [ETH Zurich](https://ethz.ch/en.html), free time, or side projects. Projects from my professional experiences cannot be found here due to non-disclosure agreements. 
+My GitHub covers some of my projects from my academic studies at [ETH Zurich](https://ethz.ch/en.html), free time, or side projects. Naturally, projects from my professional experiences or theses with industry partners cannot be found here due to non-disclosure agreements. 
 
 The projects you will find on here revolve around: 
 - 🧠 AI & ML
-- 🦾 Robotics & Autonomous System
+- 🦾 Robotics & Autonomous Systems
 - 👁️ Computer Vision
 - 📱 Mobile Apps
 
  ### 🎓 Education
   - **MSc ME ETH Zurich**: Robotics \@ [Robotic Systems Lab](https://rsl.ethz.ch) under the direct mentorship of Prof. Dr. Marco Hutter
-     - Master's Thesis: _Exploratory Innovation and Product Development in AI/ML, Computer Vision and Robotics/Automation at the Bühler Exploration Lab_
+     - Master's Thesis: _Exploratory Innovation and Product Development in AI/ML, Computer Vision and Robotics Automation at the Bühler Exploration Lab_
      - Semester's Thesis: _Robotics Automation in Pharmaceutical Testing for Johnson \& Johnson_
        
   - **BSc ME ETH Zurich**: Robotics and Mechatronics
