@@ -4,13 +4,13 @@ My GitHub covers some of my projects from my academic studies at [ETH Zurich](ht
 
 The projects you will find on here revolve around: 
 - 🧠 AI & ML
-- 🦾 Robotics & Autonomous Systems
+- 🦾 Robotics, Autonomous Systems, Embodied AI
 - 👁️ Computer Vision
 - 📱 Mobile Apps
 
  ### 🎓 Education
   - **MSc ME ETH Zurich**: Robotics \@ [Robotic Systems Lab](https://rsl.ethz.ch) under the direct mentorship of Prof. Dr. Marco Hutter
-     - Master's Thesis: _Exploratory Innovation and Product Development in AI/ML, Computer Vision and Robotics Automation at the Bühler Exploration Lab_
+     - Master's Thesis: _Exploratory Innovation and Product Development in AI/ML, Computer Vision and Robotics Automation at the Bühler Exploration Lab_ [ETHZ News](https://ethz.ch/en/news-and-events/eth-news/news/2024/03/eth-students-accelerate-private-sector-innovation.html)
      - Semester's Thesis: _Robotics Automation in Pharmaceutical Testing for Johnson \& Johnson_
        
   - **BSc ME ETH Zurich**: Robotics and Mechatronics
