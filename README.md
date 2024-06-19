@@ -11,6 +11,7 @@ The projects you will find on here revolve around:
  ### 🎓 Education
   - **MSc ME ETH Zurich**: Robotics \@ [Robotic Systems Lab](https://rsl.ethz.ch) under the direct mentorship of Prof. Dr. Marco Hutter
      - Master's Thesis: _Exploratory Innovation and Product Development in AI/ML, Computer Vision and Robotics Automation at the Bühler Exploration Lab_
+       - Deep-Dive Topic Title: Combining Deep Q-Network Reinforcement Learning-Based Controllers with LSTM-Based Forecasting for Optimal Industrial Food Production 
        - Features: [ETHZ News](https://ethz.ch/en/news-and-events/eth-news/news/2024/03/eth-students-accelerate-private-sector-innovation.html) | [Innovation Zurich](https://innovation.zuerich/en/#eth-students-accelerate-private-sector-innovation)
      - Semester's Thesis: _Robotics Automation in Pharmaceutical Testing for Johnson \& Johnson_
        
