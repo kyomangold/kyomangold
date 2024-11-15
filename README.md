@@ -11,7 +11,7 @@ The projects you will find on here revolve around:
  ### 🚀 Entrepreneurship
  - **Atomic Apps**: Co-Founder \@ [Atomic Apps Lab](https://atomic-apps.dev). We are an indie dev duo from Switzerland, comitted to rising to the challenge to build and ship a new app each month. Currently working on Atomic app 3/12.
      - **[Recapify](https://recapify.atomic-apps.dev)** Our AI transforms lengthy meetings and discussions into clear, actionable insights, so you can stay focused and informed without the hassle of manual note-taking. 🎙️ ➡️ 📝
-     - **[In One Minute](https://recapify.atomic-apps.dev)** Transforming the way you learn from videos using AI. Save time, boost retention, and stay ahead – one summary at a time. 🎥 ➡️ 📝
+     - **[In One Minute](https://inoneminute.atomic-apps.dev)** Transforming the way you learn from videos using AI. Save time, boost retention, and stay ahead – one summary at a time. 🎥 ➡️ 📝
  - **unum Labs AI**: Solo-Founder \@ [unum Labs AI](https://unumlabs.ai). At unum Labs, I’m crafting AI-driven iOS apps that are personal, purposeful, and beautifully designed. With a solopreneur mindset, I focus on building tools I wish existed—AI-powered apps that truly enhance everyday life. 
 
  ### 🎓 Education
