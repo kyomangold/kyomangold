@@ -13,7 +13,7 @@ The projects you will find on here revolve around:
      - **[Recapify](https://recapify.atomic-apps.dev)** Our AI transforms lengthy meetings and discussions into clear, actionable insights, so you can stay focused and informed without the hassle of manual note-taking. 🎙️ ➡️ 📝
      - **[In One Minute](https://inoneminute.atomic-apps.dev)** Transforming the way you learn from videos using AI. Save time, boost retention, and stay ahead – one summary at a time. 🎥 ➡️ 📝
      - **[Serenity AI](https://serenity.atomic-apps.dev)** Serenity AI gently turns moments of quiet isolation into bridges toward meaningful human connection—encouraging real conversations, shared experiences, and renewed support. 😔 ➡️ 🤗
- - **unum Labs AI**: Solo-Founder \@ [unum Labs AI](https://unumlabs.ai). At unum Labs, I’m crafting AI-driven apps for Apple platforms that are personal, purposeful, and beautifully designed. With a solopreneur mindset, I focus on building tools I wish existed—AI-powered apps that truly enhance everyday life. 
+ - **unum Labs AI**: Founder \@ [unum Labs AI](https://unumlabs.ai). At unum Labs, I’m crafting AI-driven apps for Apple platforms that are personal, purposeful, and beautifully designed. With a solopreneur mindset, I focus on making something wonderful with AI. 
 
  ### 🎓 Education
   - **MSc ME ETH Zurich**: Robotics \@ [Robotic Systems Lab](https://rsl.ethz.ch) at the [Institute of Robotics and Intelligent Systems](https://www.iris.ethz.ch) under the direct mentorship of Prof. Dr. Marco Hutter
