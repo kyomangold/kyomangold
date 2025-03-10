@@ -10,7 +10,7 @@ The projects you will find on here revolve around:
 - 📱 Mobile Apps
 
  ### 🚀 Entrepreneurship
-  - **unum Labs**: Founder \@ [unumlabs.ai](https://unumlabs.ai). At unum Labs, I’m developing AI-driven apps for Apple platforms that are personal, purposeful, and beautifully designed. With a solopreneur mindset, I focus on making something wonderful with AI. Stay tuned for my first launch in March 2025!
+  - **unum Labs**: Founder \@ [unumlabs.ai](https://unumlabs.ai). At unum Labs, I’m developing AI-driven apps for Apple platforms that are personal, purposeful, and beautifully designed. With a solopreneur mindset, I focus on making something wonderful with AI. Stay tuned for the launch of my first app in March 2025!
     
  - **Atomic Apps**: Co-Founder \@ [atomic-apps.dev](https://atomic-apps.dev). We are an indie dev duo from Switzerland, comitted to building apps we want to see in the world.
      - **[Recapify](https://recapify.atomic-apps.dev)** Our AI transforms lengthy meetings and discussions into clear, actionable insights, so you can stay focused and informed without the hassle of manual note-taking. 🎙️ ➡️ 📝
