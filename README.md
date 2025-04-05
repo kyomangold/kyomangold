@@ -11,7 +11,7 @@ The projects you will find on here revolve around:
 - 🧠 AI & ML
 - 🦾 Robotics, Autonomous Systems, Embodied AI
 - 👁️ Computer Vision
-- 📱 Mobile Apps 
+- 📱 Mobile Apps for iPhone, iPad, Mac and Vision Pro
 
  ### 🚀 Entrepreneurship
   - **unum Labs**: Founder \@ [unumlabs.ai](https://unumlabs.ai). At unum Labs, I’m developing AI-driven apps for Apple platforms that are personal, purposeful, and beautifully designed. With a solopreneur mindset, I focus on making something wonderful with AI. Download my first app - [Neuron AI](https://apps.apple.com/ch/app/neuron-ai-private-secure/id6739433114)!
