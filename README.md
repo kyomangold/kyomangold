@@ -9,7 +9,7 @@ My GitHub covers some of my projects from my academic studies at [ETH Zurich](ht
 
 The projects you will find on here revolve around: 
 - 🧠 AI & ML
-- 🦾 Robotics, Autonomous Systems, Embodied AI
+- 🦾 Robotics & Embodied AI
 - 👁️ Computer Vision
 - 📱 Mobile Apps for iPhone, iPad, Mac and Vision Pro
 
