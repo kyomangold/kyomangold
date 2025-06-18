@@ -3,7 +3,7 @@
 
 ![NeuronAI_Hero-Banner-glass](https://github.com/user-attachments/assets/23ea30e9-4387-4204-ad6f-b89746ba248a)
 
-🚀 NEW LAUNCH: [Download Neuron AI](https://apps.apple.com/ch/app/neuron-ai-private-secure/id6739433114)
+🚀 GET NOW: [Download Neuron AI](https://apps.apple.com/ch/app/neuron-ai-private-secure/id6739433114)
 
 My GitHub covers some of my projects from my academic studies at [ETH Zurich](https://ethz.ch/en.html), free time, or side projects. Naturally, projects from my professional experiences or theses with industry partners cannot be found here due to non-disclosure agreements. 
 
