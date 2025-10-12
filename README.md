@@ -25,9 +25,9 @@ The projects you will find on here revolve around:
  
  ### 👨🏻‍💻 Hackathon Experience
    - **[mimic x OpenAI x Loki Robotics Hackathon – Zurich](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2025/06/robotics-hackathon.html)** Built GameEffector, a tic-tac-toe robot using VLAs, imitation learning, LLM-powered reasoning, vision, and narration to play interactively with humans in the physical world. Won runner-up.
-   - **[{Tech: Europe} AI Hackathon – Paris](https://techeurope.io)** Built Best-In-Class, a real-time AI tutor using the Feynman technique with voice/video streaming, VLM reasoning, web-search agents, and dynamic AI generated avatars for interactive, personalized learning.
+   - **[{Tech: Europe} AI Hackathon – Paris]([techeurope.io](https://blog.techeurope.io/p/hackathon-paris-1))** Built Best-In-Class, a real-time AI tutor using the Feynman technique with voice/video streaming, VLM reasoning, web-search agents, and dynamic AI generated avatars for interactive, personalized learning.
    - **[Mistral AI Robotics Hackathon – Paris](https://www.joinef.com/events/https-lu-ma-roboticshack/)** Built an autonomous robot policy evaluation system using dual SO-100 arms, multi-agent VLMs, and fine-tuned VLAs for end-to-end task planning, execution, and performance benchmarking.
-   - **[Meta Llama Impact Hackathon – London](https://serenity.atomic-apps.dev)** Built Serenity AI a multi-agent, safety-aligned Telegram bot addressing loneliness through emotionally intelligent, multimodal AI interactions with Llama 3.2, LLaVA-style vision, contextual memory, and LlamaGuard moderation.
+   - **[Meta Llama Impact Hackathon – London](https://about.fb.com/news/2024/11/metas-llama-impact-hackathon-pioneering-ai-solutions-for-public-good/)** Built Serenity AI a multi-agent, safety-aligned Telegram bot addressing loneliness through emotionally intelligent, multimodal AI interactions with Llama 3.2, LLaVA-style vision, contextual memory, and LlamaGuard moderation.
  
 
  ### 🎓 Education
