@@ -22,6 +22,13 @@ The projects you will find on here revolve around:
      - **[Recapify](https://recapify.atomic-apps.dev)** Our AI transforms lengthy meetings and discussions into clear, actionable insights, so you can stay focused and informed without the hassle of manual note-taking. 🎙️ ➡️ 📝
      - **[In One Minute](https://inoneminute.atomic-apps.dev)** Transforming the way you learn from videos using AI. Save time, boost retention, and stay ahead – one summary at a time. 🎥 ➡️ 📝
      - **[Serenity AI](https://serenity.atomic-apps.dev)** Serenity AI gently turns moments of quiet isolation into bridges toward meaningful human connection—encouraging real conversations, shared experiences, and renewed support. 😔 ➡️ 🤗
+ 
+ ### 👨🏻‍💻 Hackathon Experience
+   - **[mimic x OpenAI x Loki Robotics Hackathon – Zurich](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2025/06/robotics-hackathon.html)** Built GameEffector, a tic-tac-toe robot using VLAs, imitation learning, LLM-powered reasoning, vision, and narration to play interactively with humans in the physical world. Won runner-up.
+   - **[{Tech: Europe} AI Hackathon – Paris](https://techeurope.io)** Built Best-In-Class, a real-time AI tutor using the Feynman technique with voice/video streaming, VLM reasoning, web-search agents, and dynamic AI generated avatars for interactive, personalized learning.
+   - **[Mistral AI Robotics Hackathon – Paris](https://www.joinef.com/events/https-lu-ma-roboticshack/)** Built an autonomous robot policy evaluation system using dual SO-100 arms, multi-agent VLMs, and fine-tuned VLAs for end-to-end task planning, execution, and performance benchmarking.
+   - **[Meta Llama Impact Hackathon – London](https://serenity.atomic-apps.dev)** Built Serenity AI a multi-agent, safety-aligned Telegram bot addressing loneliness through emotionally intelligent, multimodal AI interactions with Llama 3.2, LLaVA-style vision, contextual memory, and LlamaGuard moderation.
+ 
 
  ### 🎓 Education
   - **MSc ME ETH Zurich**: Robotics \@ [Robotic Systems Lab](https://rsl.ethz.ch) at the [Institute of Robotics and Intelligent Systems](https://www.iris.ethz.ch) under the direct mentorship of Prof. Dr. Marco Hutter
@@ -33,13 +40,6 @@ The projects you will find on here revolve around:
   - **BSc ME ETH Zurich**: Robotics and Mechatronics
     - Bachelor's Thesis: _Interdisciplinary Product Development at the Design and Technology Lab_ [(DTL)](https://designtechlab.ch/en/)
       - Features: [Milan Design Week](https://www.salonemilano.it/en/articles/lost-graduation-show-figures), [Wallpaper *](https://www.wallpaper.com/design/salone-del-mobile-the-lost-graduation-show), [Dezeen](https://www.dezeen.com/2021/06/13/zurich-university-of-the-arts-industrial-design-school-show/), [Design Curial](https://www.designcurial.com/news/supersalone-9293627), [Climate Pioneers](https://www.climatepioneers.net/p/design-decarbonization-milan-design-week), [Hochparterre](https://www.hochparterre.ch/nachrichten/design/die-unterwasser-landschaftsarchitektin), [Design Department ZHdK](https://design.zhdk.ch/en/diploma-archive/2021/coral-city/), [Industrial Design ZHdK](https://industrialdesign.zhdk.ch/diplom-2021/projekte/coral-city/) and [Design and Technology Lab](https://designtechlab.ch/projekte/coral-city/)     
-
- ### 👨🏻‍💻 Hackathon Experience
-   - **[mimic x OpenAI x Loki Robotics Hackathon – Zurich](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2025/06/robotics-hackathon.html)** Built GameEffector, a tic-tac-toe robot using VLAs, imitation learning, LLM-powered reasoning, vision, and narration to play interactively with humans in the physical world. Won runner-up.
-   - **[{Tech: Europe} AI Hackathon – Paris](https://techeurope.io)** Built Best-In-Class, a real-time AI tutor using the Feynman technique with voice/video streaming, VLM reasoning, web-search agents, and dynamic AI generated avatars for interactive, personalized learning.
-   - **[Mistral AI Robotics Hackathon – Paris](https://www.joinef.com/events/https-lu-ma-roboticshack/)** Built an autonomous robot policy evaluation system using dual SO-100 arms, multi-agent VLMs, and fine-tuned VLAs for end-to-end task planning, execution, and performance benchmarking.
-   - **[Meta Llama Impact Hackathon – London](https://serenity.atomic-apps.dev)** Built Serenity AI a multi-agent, safety-aligned Telegram bot addressing loneliness through emotionally intelligent, multimodal AI interactions with Llama 3.2, LLaVA-style vision, contextual memory, and LlamaGuard moderation.
- 
   
  ### 💼 Professional Experience
 [Serious AI](https://www.seriousai.co) | [CoinSmart](https://coinsmart.ch) | [Bühler Group](https://www.buhlergroup.com/global/en/homepage.html) | [Siemens](https://www.siemens.com/global/en.html) | [Apple](https://www.apple.com) | [Johnson \& Johnson](https://www.jnj.com) | [rrreefs](https://www.rrreefs.com) | [DrM](https://drm.ch) | [IWC Schaffhausen](https://www.iwc.com/ch/en/home.html)
