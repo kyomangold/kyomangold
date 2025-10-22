@@ -5,7 +5,7 @@
 
 🚀 GET NOW: [Download Neuron AI](https://apps.apple.com/ch/app/neuron-ai-private-secure/id6739433114)
 
-My GitHub covers some of my projects from my academic studies at [ETH Zurich](https://ethz.ch/en.html), free time, or side projects. Naturally, projects from my professional experiences or theses with industry partners cannot be found here due to non-disclosure agreements. 
+My GitHub covers some of my projects from my academic studies at [ETH Zurich](https://ethz.ch/en.html), free time, and side projects. Naturally, projects from my professional experiences or theses with industry partners cannot be found here due to non-disclosure agreements. 
 
 The projects you will find on here revolve around: 
 - 🧠 AI & ML
